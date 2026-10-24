@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="security_settings_face_enroll_consent_introduction_title">Permet Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Permet Desbloqueig facial</string>
     <string name="security_settings_face_enroll_dialog_ok">"D'acord"</string>
     <string name="security_settings_face_enroll_done">Fet</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Si Desbloqueig facial amb accessibilitat està desactivat, és possible que alguns passos de configuració no funcionin correctament amb TalkBack.</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message" product="default">Si Desbloqueig facial amb accessibilitat està desactivat, és possible que alguns passos de configuració no funcionin correctament amb TalkBack.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Torna</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Continua la configuració</string>
     <string name="security_settings_face_enroll_education_message">A la pantalla següent, gira el cap perquè es capturin tots els angles de la cara.</string>
-    <string name="security_settings_face_enroll_education_message_accessibility">"A la pantalla següent, subjecta el telèfon a l'altura dels ulls"</string>
+    <string name="security_settings_face_enroll_education_message_accessibility" product="default">"A la pantalla següent, subjecta el telèfon a l'altura dels ulls"</string>
     <string name="security_settings_face_enroll_education_start">Comença</string>
-    <string name="security_settings_face_enroll_education_title">Com es pot configurar Desbloqueig facial</string>
-    <string name="security_settings_face_enroll_education_title_accessibility">Configura Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_education_title" product="default">Com es pot configurar Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_education_title_accessibility" product="default">Configura Desbloqueig facial</string>
     <string name="security_settings_face_enroll_education_title_unlock_disabled">"Utilitza l'autenticació facial"</string>
     <string name="security_settings_face_enroll_enrolling_skip">Omet</string>
     <string name="security_settings_face_enroll_error_dialog_title">"No s'ha completat el registre"</string>
@@ -22,67 +22,67 @@
 
 La funció Desbloqueig facial funciona millor quan hi ha prou llum i no portes mascareta ni ulleres fosques."</string>
     <string name="security_settings_face_enroll_finish_title">Tot correcte!</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"Suprimeix el model facial actual per tornar a configurar Desbloqueig facial.
+    <string name="security_settings_face_enroll_improve_face_alert_body" product="default">"Suprimeix el model facial actual per tornar a configurar Desbloqueig facial.
 
 El model facial se suprimirà permanentment i de manera segura.
 
 Un cop suprimit, necessitaràs el PIN, el patró o la contrasenya per desbloquejar el telèfon o per a l'autenticació en aplicacions."</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Suprimeix el model facial actual per tornar a configurar Desbloqueig facial.
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint" product="default">"Suprimeix el model facial actual per tornar a configurar Desbloqueig facial.
 
 El model facial se suprimirà permanentment i de manera segura.
 
 Un cop suprimit, necessitaràs l'empremta digital, el PIN, el patró o la contrasenya per desbloquejar el telèfon o per a l'autenticació en aplicacions."</string>
-    <string name="security_settings_face_enroll_improve_face_alert_title">Configura Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title" product="default">Configura Desbloqueig facial</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Configuració amb visió o moviment limitats</string>
     <string name="security_settings_face_enroll_introduction_accessibility_diversity" />
-    <string name="security_settings_face_enroll_introduction_accessibility_expanded">Quan utilitzis Desbloqueig facial, és possible que hagis de col·locar el cap just davant del telèfon.</string>
+    <string name="security_settings_face_enroll_introduction_accessibility_expanded" product="default">Quan utilitzis Desbloqueig facial, és possible que hagis de col·locar el cap just davant del telèfon.</string>
     <string name="security_settings_face_enroll_introduction_accessibility_vision">"Els ulls han d'estar oberts"</string>
     <string name="security_settings_face_enroll_introduction_agree">Accepto</string>
     <string name="security_settings_face_enroll_introduction_cancel">Cancel·la</string>
-    <string name="security_settings_face_enroll_introduction_consent_message">Utilitzar la cara del teu fill o filla per desbloquejar el telèfon pot ser menys segur que un bon patró o PIN.</string>
-    <string name="security_settings_face_enroll_introduction_consent_message_0">Permet que el teu fill o filla utilitzi la cara per desbloquejar el telèfon</string>
-    <string name="security_settings_face_enroll_introduction_control_consent_message">"Tu i el teu fill podeu suprimir les imatges i el seu model facial o desactivar Desbloqueig facial en qualsevol moment a Configuració. Els models facials s'emmagatzemen al telèfon fins que se suprimeixin.
+    <string name="security_settings_face_enroll_introduction_consent_message" product="default">Utilitzar la cara del teu fill o filla per desbloquejar el telèfon pot ser menys segur que un bon patró o PIN.</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0" product="default">Permet que el teu fill o filla utilitzi la cara per desbloquejar el telèfon</string>
+    <string name="security_settings_face_enroll_introduction_control_consent_message" product="default">"Tu i el teu fill podeu suprimir les imatges i el seu model facial o desactivar Desbloqueig facial en qualsevol moment a Configuració. Els models facials s'emmagatzemen al telèfon fins que se suprimeixin.
 
 Obtén més informació a g.co/pixel/faceunlock."</string>
     <string name="security_settings_face_enroll_introduction_control_consent_title">Tu i el teu fill teniu el control</string>
-    <string name="security_settings_face_enroll_introduction_control_message">"Pots suprimir el teu model facial o desactivar Desbloqueig facial en qualsevol moment a Configuració. Els models facials s'emmagatzemen al telèfon fins que els suprimeixes.
+    <string name="security_settings_face_enroll_introduction_control_message" product="default">"Pots suprimir el teu model facial o desactivar Desbloqueig facial en qualsevol moment a Configuració. Els models facials s'emmagatzemen al telèfon fins que els suprimeixes.
 
 Obtén més informació a g.co/pixel/faceunlock."</string>
     <string name="security_settings_face_enroll_introduction_control_title">Ets tu qui té el control</string>
-    <string name="security_settings_face_enroll_introduction_how_consent_message">"Desbloqueig facial crea un model únic de la cara del teu fill o filla per verificar la seva identitat. Per crear-lo durant la configuració, es farà fotos de la cara des de diversos angles.
+    <string name="security_settings_face_enroll_introduction_how_consent_message" product="default">"Desbloqueig facial crea un model únic de la cara del teu fill o filla per verificar la seva identitat. Per crear-lo durant la configuració, es farà fotos de la cara des de diversos angles.
 
 Quan fa servir Desbloqueig facial, les imatges s'utilitzen per actualitzar el seu model facial. Les imatges utilitzades per crear-lo no s'emmagatzemen, però el model facial sí que s'emmagatzema de manera segura al telèfon i no en surt mai. Tot el procés es fa de manera segura al telèfon."</string>
-    <string name="security_settings_face_enroll_introduction_how_message">"Desbloqueig facial crea un model únic de la teva cara per verificar la teva identitat. Per crear-lo durant la configuració, et faràs fotos de la cara des de diversos angles.
+    <string name="security_settings_face_enroll_introduction_how_message" product="default">"Desbloqueig facial crea un model únic de la teva cara per verificar la teva identitat. Per crear-lo durant la configuració, et faràs fotos de la cara des de diversos angles.
 
 Quan fas servir Desbloqueig facial, les imatges s'utilitzen per actualitzar el teu model facial. Les imatges utilitzades per crear-lo no s'emmagatzemen, però el model facial sí que s'emmagatzema de manera segura i no surt del telèfon. Tot el procés es fa de manera segura al teu telèfon."</string>
     <string name="security_settings_face_enroll_introduction_how_title">Com funciona</string>
-    <string name="security_settings_face_enroll_introduction_info_consent_gaze">Desbloqueig facial pot requerir que el teu fill tingui els ulls oberts per desbloquejar el telèfon o verificar la seva identitat. Tu i el teu fill podeu activar aquesta opció en qualsevol moment a Configuració.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_gaze" product="default">Desbloqueig facial pot requerir que el teu fill tingui els ulls oberts per desbloquejar el telèfon o verificar la seva identitat. Tu i el teu fill podeu activar aquesta opció en qualsevol moment a Configuració.</string>
     <string name="security_settings_face_enroll_introduction_info_consent_glasses">Si el teu fill normalment porta ulleres, pot dur-les posades durant la configuració.</string>
-    <string name="security_settings_face_enroll_introduction_info_consent_less_secure">Utilitzar la cara del teu fill o filla per desbloquejar el telèfon pot ser menys segur que un bon patró, PIN o contrasenya</string>
-    <string name="security_settings_face_enroll_introduction_info_consent_looking">"Si mira el telèfon, es pot desbloquejar sense voler. També pot desbloquejar el telèfon una persona que s'assembli molt a ell (per exemple, un bessó idèntic), o algú que li apropi el telèfon a la cara."</string>
-    <string name="security_settings_face_enroll_introduction_info_gaze">Desbloqueig facial pot requerir que tinguis els ulls oberts per desbloquejar el telèfon o verificar la teva identitat. Pots activar aquesta opció en qualsevol moment a Configuració.</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_less_secure" product="default">Utilitzar la cara del teu fill o filla per desbloquejar el telèfon pot ser menys segur que un bon patró, PIN o contrasenya</string>
+    <string name="security_settings_face_enroll_introduction_info_consent_looking" product="default">"Si mira el telèfon, es pot desbloquejar sense voler. També pot desbloquejar el telèfon una persona que s'assembli molt a ell (per exemple, un bessó idèntic), o algú que li apropi el telèfon a la cara."</string>
+    <string name="security_settings_face_enroll_introduction_info_gaze" product="default">Desbloqueig facial pot requerir que tinguis els ulls oberts per desbloquejar el telèfon o verificar la teva identitat. Pots activar aquesta opció en qualsevol moment a Configuració.</string>
     <string name="security_settings_face_enroll_introduction_info_glasses">Pots utilitzar ulleres o ulleres de sol amb els vidres clars.</string>
-    <string name="security_settings_face_enroll_introduction_info_less_secure">Utilitzar la cara per desbloquejar el telèfon pot ser menys segur que un bon patró, PIN o contrasenya</string>
-    <string name="security_settings_face_enroll_introduction_info_looking">"Si mires el telèfon, es pot desbloquejar sense voler. També pot desbloquejar el telèfon una persona que s'assembli molt a tu (per exemple, un bessó idèntic), o algú que t'apropi el telèfon a la cara."</string>
+    <string name="security_settings_face_enroll_introduction_info_less_secure" product="default">Utilitzar la cara per desbloquejar el telèfon pot ser menys segur que un bon patró, PIN o contrasenya</string>
+    <string name="security_settings_face_enroll_introduction_info_looking" product="default">"Si mires el telèfon, es pot desbloquejar sense voler. També pot desbloquejar el telèfon una persona que s'assembli molt a tu (per exemple, un bessó idèntic), o algú que t'apropi el telèfon a la cara."</string>
     <string name="security_settings_face_enroll_introduction_info_title">Nota important</string>
-    <string name="security_settings_face_enroll_introduction_message">Utilitza la cara per desbloquejar el telèfon o verificar que ets tu, com ara quan inicies la sessió en aplicacions o aproves una compra.</string>
-    <string name="security_settings_face_enroll_introduction_message_setup">Fes servir la cara per desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions</string>
-    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utilitza la cara per desbloquejar el telèfon o aprovar compres.
+    <string name="security_settings_face_enroll_introduction_message" product="default">Utilitza la cara per desbloquejar el telèfon o verificar que ets tu, com ara quan inicies la sessió en aplicacions o aproves una compra.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup" product="default">Fes servir la cara per desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled" product="default">"Utilitza la cara per desbloquejar el telèfon o aprovar compres.
 
 Nota: no pots fer servir la cara per desbloquejar aquest dispositiu. Per obtenir més informació, contacta amb l'administrador de la teva organització."</string>
     <string name="security_settings_face_enroll_introduction_more">Més</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">No, gràcies</string>
-    <string name="security_settings_face_enroll_introduction_title">Configura Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_introduction_title" product="default">Configura Desbloqueig facial</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">"Utilitza l'autenticació facial"</string>
     <string name="security_settings_face_enroll_must_re_enroll_subtitle">Millora la seguretat i el rendiment</string>
-    <string name="security_settings_face_enroll_must_re_enroll_title">Torna a configurar Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title" product="default">Torna a configurar Desbloqueig facial</string>
     <string name="security_settings_face_enroll_next">Següent</string>
     <string name="security_settings_face_enroll_partial_message">Per millorar-ne el rendiment, pots tornar a configurar Desbloqueig facial a Configuració</string>
     <string name="security_settings_face_enroll_partial_start_over">Torna a començar</string>
     <string name="security_settings_face_enroll_partial_title">"Desbloqueig facial s'ha acabat de configurar"</string>
     <string name="security_settings_face_enroll_repeat_title">Centra la cara dins del cercle</string>
-    <string name="security_settings_face_enroll_should_re_enroll_subtitle">Torna a configurar Desbloqueig facial</string>
-    <string name="security_settings_face_enroll_should_re_enroll_title">Millora el rendiment de Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle" product="default">Torna a configurar Desbloqueig facial</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title" product="default">Millora el rendiment de Desbloqueig facial</string>
     <string name="security_settings_face_enroll_timeout_message">"Prova la configuració ràpida. Tingues en compte que és possible que hagis de col·locar el cap just davant del telèfon quan utilitzis Desbloqueig facial.
 
 Per millorar-ne el rendiment, pots tornar a configurar Desbloqueig facial a Configuració."</string>
@@ -95,11 +95,11 @@ Per millorar-ne el rendiment, pots tornar a configurar Desbloqueig facial a Conf
     <string name="security_settings_face_enroll_too_hot_title">El telèfon està massa calent</string>
     <string name="security_settings_face_preference_summary">Cara afegida</string>
     <string name="security_settings_face_preference_summary_none">Toca per configurar la cara</string>
-    <string name="security_settings_face_preference_title">Desbloqueig facial</string>
-    <string name="security_settings_face_profile_preference_title">Desbloqueig facial per a la feina</string>
-    <string name="security_settings_face_settings_context_subtitle">Utilitza Desbloqueig facial per desbloquejar el telèfon</string>
-    <string name="security_settings_face_settings_enroll">Configura Desbloqueig facial</string>
-    <string name="security_settings_face_settings_footer">"Utilitza la cara per desbloquejar el telèfon o per a l'autenticació en aplicacions, com ara quan inicies la sessió o aproves una compra.
+    <string name="security_settings_face_preference_title" product="default">Desbloqueig facial</string>
+    <string name="security_settings_face_profile_preference_title" product="default">Desbloqueig facial per a la feina</string>
+    <string name="security_settings_face_settings_context_subtitle" product="default">Utilitza Desbloqueig facial per desbloquejar el telèfon</string>
+    <string name="security_settings_face_settings_enroll" product="default">Configura Desbloqueig facial</string>
+    <string name="security_settings_face_settings_footer" product="default">"Utilitza la cara per desbloquejar el telèfon o per a l'autenticació en aplicacions, com ara quan inicies la sessió o aproves una compra.
 
 Tingues en compte el següent:
 Només pots tenir configurada una cara alhora. Per afegir una altra cara, suprimeix l'actual.
@@ -109,7 +109,7 @@ Si mires el telèfon, es pot desbloquejar sense voler.
 Una altra persona pot desbloquejar el telèfon si te'l posa davant de la cara.
 
 És possible que algú que s'assembli molt a tu, com ara un bessó idèntic, pugui desbloquejar el telèfon."</string>
-    <string name="security_settings_face_settings_footer_attention_not_supported">"Utilitza la cara per desbloquejar el telèfon o per a l'autenticació en aplicacions, com ara quan inicies la sessió o aproves una compra.
+    <string name="security_settings_face_settings_footer_attention_not_supported" product="default">"Utilitza la cara per desbloquejar el telèfon o per a l'autenticació en aplicacions, com ara quan inicies la sessió o aproves una compra.
 
 Tingues en compte el següent:
 Només pots tenir configurada una cara alhora. Per afegir una altra cara, suprimeix l'actual.
@@ -119,18 +119,18 @@ Si mires el telèfon, es pot desbloquejar sense voler.
 Una altra persona pot desbloquejar el telèfon si te'l posa davant de la cara, encara que tinguis els ulls tancats.
 
 És possible que algú que s'assembli molt a tu, com ara un bessó idèntic, pugui desbloquejar el telèfon."</string>
-    <string name="security_settings_face_settings_preferences_category">Quan utilitzes Desbloqueig facial</string>
-    <string name="security_settings_face_settings_remove_dialog_details">"Se suprimirà el teu model facial de manera permanent i segura.
+    <string name="security_settings_face_settings_preferences_category" product="default">Quan utilitzes Desbloqueig facial</string>
+    <string name="security_settings_face_settings_remove_dialog_details" product="default">"Se suprimirà el teu model facial de manera permanent i segura.
 
 Després de suprimir-lo, necessitaràs un PIN, un patró o una contrasenya per desbloquejar el teu telèfon o per a l'autenticació en aplicacions."</string>
-    <string name="security_settings_face_settings_remove_dialog_details_convenience">"Se suprimirà el teu model facial de manera permanent i segura.
+    <string name="security_settings_face_settings_remove_dialog_details_convenience" product="default">"Se suprimirà el teu model facial de manera permanent i segura.
 
 Després de suprimir-lo, necessitaràs un PIN, un patró o una contrasenya per desbloquejar el teu telèfon."</string>
     <string name="security_settings_face_settings_remove_dialog_title">Vols suprimir el model facial?</string>
     <string name="security_settings_face_settings_remove_face_model">Suprimeix el model facial</string>
     <string name="security_settings_face_settings_require_attention">"Els ulls han d'estar oberts"</string>
-    <string name="security_settings_face_settings_require_attention_details">Per desbloquejar el telèfon, has de tenir els ulls oberts</string>
+    <string name="security_settings_face_settings_require_attention_details" product="default">Per desbloquejar el telèfon, has de tenir els ulls oberts</string>
     <string name="security_settings_face_settings_require_confirmation">Requereix sempre confirmació</string>
-    <string name="security_settings_face_settings_require_confirmation_details">Requereix sempre confirmació en utilitzar el desbloqueig facial en apps</string>
-    <string name="security_settings_face_settings_use_face_category">Desbloq. facial per</string>
+    <string name="security_settings_face_settings_require_confirmation_details" product="default">Requereix sempre confirmació en utilitzar el desbloqueig facial en apps</string>
+    <string name="security_settings_face_settings_use_face_category" product="default">Desbloq. facial per</string>
 </resources>
