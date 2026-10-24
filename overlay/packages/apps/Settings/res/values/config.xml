@@ -21,6 +21,9 @@
     <bool name="config_face_intro_show_less_secure">true</bool>
     <bool name="config_face_intro_show_require_eyes">false</bool>
 
+    <!-- Face Enroll -->
+    <string name="config_face_enroll" translatable="false">com.android.settings/com.google.android.settings.biometrics.face.FaceEnrollActivityDirector</string>
+
     <!-- Traffic light package to use -->
     <string name="config_face_enroll_traffic_light_package">com.google.android.settings.future.biometrics.faceenroll</string>
 
